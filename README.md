@@ -13,3 +13,5 @@
 *  Hidden message : 							enc0re{h0w_dId_y0u_kn0w_460ut_jsteg}
 
 *  Audio encryption : 							enc0re{encrypting_sutff_in_audio_is_fun}
+
+*  Secure message :                             enc0re{this_1s_0ne_0f_m05t_s3cur3_3ncryp1ion
