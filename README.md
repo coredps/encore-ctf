@@ -1,17 +1,23 @@
-*  Mischief:									enc0re{wh0_w0uLd_h4ave_known}
+Enc0re CTF
+---------------
 
-*  noice:										enc0re{obsessed_yet?}
+<pre><b>Mischief:</b>			                enc0re{wh0_w0uLd_h4ave_known}
 
-*  nameless pic :								enc0re{aw00n1mbus_t00k_it}
+<b>noice :</b>					        enc0re{obsessed_yet?}
 
-*  simple dictionary : 						enc0re{th1s_w4s_th3_easiest_chall}
+<b>nameless pic :</b>				        enc0re{aw00n1mbus_t00k_it}
 
-*  I love blank and white space :  		    enc0re{jmvp2zT_have_you_ever_heared_of_discord?}
+<b>simple dictionary :</b> 			        enc0re{th1s_w4s_th3_easiest_chall}
 
-*  picture not shown :							enc0re{magic4l_h3x_initials}
+<b>I love blank and white space :</b>  		enc0re{jmvp2zT_have_you_ever_heared_of_discord?}
 
-*  Hidden message : 							enc0re{h0w_dId_y0u_kn0w_460ut_jsteg}
+<b>picture not shown :</b>				enc0re{magic4l_h3x_initials}
 
-*  Audio encryption : 							enc0re{encrypting_sutff_in_audio_is_fun}
+<b>Hidden message :</b> 				enc0re{h0w_dId_y0u_kn0w_460ut_jsteg}
 
-*  Secure message :                             enc0re{this_1s_0ne_0f_m05t_s3cur3_3ncryp1ion
+<b>Audio encryption :</b> 				enc0re{encrypting_sutff_in_audio_is_fun}
+
+<b>Secure message :</b>                                enc0re{this_1s_0ne_0f_m05t_s3cur3_3ncryp1ion}
+
+
+</pre>
