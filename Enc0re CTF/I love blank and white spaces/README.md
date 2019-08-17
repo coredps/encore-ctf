@@ -1,3 +1,3 @@
-enc0re{jmvp2zT_have_you_ever_heared_of_discord?}
+enc0re{Pr3zIsG0d}
 
-stegsnow -C -p "Anonimbus" Colossus.txt
+stegsnow -C -p "Anonimbus" hiddentext.txt

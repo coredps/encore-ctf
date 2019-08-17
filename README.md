@@ -9,7 +9,7 @@ Enc0re CTF
 
 <b>simple dictionary :</b> 			        enc0re{th1s_w4s_th3_easiest_chall}
 
-<b>I love blank and white space :</b>  		enc0re{jmvp2zT_have_you_ever_heared_of_discord?}
+<b>I love blank and white space :</b>  		enc0re{Pr3zIsG0d}
 
 <b>picture not shown :</b>				enc0re{magic4l_h3x_initials}
 
