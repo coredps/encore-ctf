@@ -2,7 +2,7 @@
 
 
 
-1.  Download DeepSound 2.0
+1.  Download [DeepSound 2.0 ](http://jpinsoft.net/deepsound/download.aspx)
 2.  Import the song.wav file
 3.  Enter the password "Anonimbus"
 4.  Extract the Flag.txt
