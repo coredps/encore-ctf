@@ -1,4 +1,4 @@
-**Flag:** enc0re{this_1s_0ne_0f_m05t_s3cur3_3ncryp1ion
+**Flag:** enc0re{this_1s_0ne_0f_m05t_s3cur3_3ncryp1ion}
 
 
 1. rijndael is a AES encryption algorithm
