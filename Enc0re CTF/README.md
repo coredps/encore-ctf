@@ -1,1 +1,0 @@
-#These are the Challenges for the CTF
