@@ -22,5 +22,6 @@ Enc0re CTF
 <b>Felt like hell decoding :</b>                       enc0re{th4t5_hell_l0t_0f_c1ph3r5}
 
 <b>Format me :</b>                                     enc0re{f0rm4t_5tr1n6_vuln3r4b1l1ty}
-enc0re{all_these_moments_lost_in_time_starting_to_fade}
+
+<b>Blade :</b>                                         enc0re{all_these_moments_lost_in_time_starting_to_fade}
 </pre>
