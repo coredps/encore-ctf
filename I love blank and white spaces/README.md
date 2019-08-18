@@ -1,3 +1,4 @@
-enc0re{Pr3zIsG0d}
+**Flag:** enc0re{Pr3zIsG0d}
 
-stegsnow -C -p "Anonimbus" hiddentext.txt
+`$ sudo apt install stegsnow`
+`stegsnow -C -p "Anonimbus" hiddentext.txt`
