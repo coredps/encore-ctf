@@ -18,4 +18,5 @@ Enc0re CTF
 <b>Audio encryption :</b> 				enc0re{encrypting_sutff_in_audio_is_fun}
 
 <b>Secure message :</b>                                enc0re{this_1s_0ne_0f_m05t_s3cur3_3ncryp1ion}
+enc0re{th4t5_hell_l0t_0f_c1ph3r5}
 </pre>
