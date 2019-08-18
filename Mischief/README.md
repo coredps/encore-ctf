@@ -1,4 +1,4 @@
-enc0re{wh0_w0uLd_h4ave_known}
+**Flag:** enc0re{wh0_w0uLd_h4ave_known}
 
 1.  Change "EZ flag.jpg" to "EZ flag.zip"
 2.  Extract the ZIP
