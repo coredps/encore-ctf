@@ -1,0 +1,12 @@
+The flag was encrypted using this script using the key 15.
+This is the output : bpniwtatpstgduiwtitcrdbbpcsbtcihsxt
+Reverse the encrption and retrive the flag.
+Please make sure you are using python3 to run the script
+Flag is in the form of
+enc0re{decryptedtext}
+
+
+
+
+
+nanatsu no taizai reference
