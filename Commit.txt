@@ -1,3 +1,0 @@
-git add .
-git commit -m "<what you have done>"
-git push -u origin master
