@@ -25,5 +25,5 @@ Enc0re CTF
 
 <b>Blade :</b>                                         enc0re{all_these_moments_lost_in_time_starting_to_fade}
 
-<b>7 Deadly sins</b>									enc0re{maytheleaderofthetencommandmentsdie}
+<b>7 Deadly sins</b>					enc0re{maytheleaderofthetencommandmentsdie}
 </pre>
