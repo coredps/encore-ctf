@@ -16,4 +16,6 @@ I hate kids who hides sensitive information in a secure place
 **Flag:** enc0re{wh0_w0uLd_h4ave_known}
 
 ### Hints
-image can be veiwed as zip?! i didnt know that.
+1)hoodies,jackets,bags...hmm something common in them.
+2)image can be veiwed as zip?! i didnt know that.
+3)giveaway-convert png/jpg to zip and vice versa
