@@ -1,11 +1,11 @@
-##Nameless Pic
+## Nameless Pic
 Help me find to took this pic
-###Solution
+### Solution
 
 Answer is in properties of this image
 
-###FLAG
+### FLAG
 **Flag:** enc0re{aw00n1mbus_t00k_it}
 
-###Giveaway
+### Giveaway
 Properties
