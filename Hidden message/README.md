@@ -1,8 +1,8 @@
-##Hidden Message
+## Hidden Message
 The text in the image given says everything.
 Ever thought why people keep the flags in a txt file named "Flag.txt"?
 
-###Solution
+### Solution
 
 
 `$ sudo wget -O /usr/bin/jsteg https://github.com/lukechampine/jsteg/releases/download/v0.1.0/jsteg-linux-amd64`
@@ -15,9 +15,9 @@ Ever thought why people keep the flags in a txt file named "Flag.txt"?
 
 `jsteg reveal image.png flag.txt`
 
-###FLAG
+### FLAG
 **Flag:** enc0re{h0w_dId_y0u_kn0w_460ut_jsteg}
 
-###Hints
+### Hints
 1.) j
 2.) steg

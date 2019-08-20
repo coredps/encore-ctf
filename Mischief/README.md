@@ -1,7 +1,7 @@
-##Mischief
+## Mischief
 I hate kids who hides sensitive information in a secure place
 
-###Solution
+### Solution
 
 1.  Change "EZ flag.jpg" to "EZ flag.zip"
 2.  Extract the ZIP
@@ -12,8 +12,8 @@ I hate kids who hides sensitive information in a secure place
 7.  Open there iss more to it folder
 8.  Open flag.jpg.
 
-###FLAG
+### FLAG
 **Flag:** enc0re{wh0_w0uLd_h4ave_known}
 
-###Hints
+### Hints
 image can be veiwed as zip?! i didnt know that.
