@@ -24,4 +24,6 @@ Enc0re CTF
 <b>Format me :</b>                                     enc0re{f0rm4t_5tr1n6_vuln3r4b1l1ty}
 
 <b>Blade :</b>                                         enc0re{all_these_moments_lost_in_time_starting_to_fade}
+
+<b>7 Deadly sins</b>									enc0re{maytheleaderofthetencommandmentsdie}
 </pre>
