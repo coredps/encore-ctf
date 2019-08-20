@@ -1,4 +1,4 @@
-### 7 deadly sins 
+## 7 deadly sins 
 
 **Flag:** enc0re{maytheleaderofthetencommandmentsdie}
 
