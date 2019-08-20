@@ -13,5 +13,7 @@ find the hidden message in the audio file.
 **Flag**: enc0re{encrypting_sutff_in_audio_is_fun}
 
 ### Hints
-He is 20 years old. He has deepsound.
-Wintoxin Creator?
+
+1.  He is 20 years old. He has deepsound.
+
+1.  Wintoxin Creator?
