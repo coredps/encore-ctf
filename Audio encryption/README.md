@@ -15,5 +15,8 @@ find the hidden message in the audio file.
 ### Hints
 
 1.  He is 20 years old. He has deepsound.
+<<<<<<< HEAD
 
+=======
+>>>>>>> fixes
 2.  Wintoxin Creator?
