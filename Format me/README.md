@@ -20,4 +20,4 @@ Can you please format me to obtain the flag?
 
 ### Hints
 Ahh there are kite strings all over the place cutting people's feet. I was planning to format my phone but you know,
-vulnerable people priority
+vulnerable people priority.
