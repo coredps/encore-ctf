@@ -1,5 +1,5 @@
 ## 7 deadly sins 
-ceasar cipher but with bit of a flavour.
+ Reverse the python script. 
 ### Solution
 
 The given encryption is a simple variation of the ceasar cipher.
@@ -11,4 +11,5 @@ The player can also write a reversing script or simply use online tools.
 
 ### Hints
 1. Revv the python string encryption
-2. ananlyzing the challenge, the string has been encrypted using key 15
+2. ananlyzing the challenge, the string has been encrypted using key 1
+3. Ceasar cipher with a bit of flavour
