@@ -1,4 +1,4 @@
-## 7 deadly sins 
+## Babylon 
   Every letter combination can make a word. NOTE: flag format is 
   enc0re{<meaningfulscentence>}
 ### Solution
