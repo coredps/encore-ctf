@@ -29,5 +29,5 @@ Enc0re CTF
 
 <b>Locate Me :</b>                                     enc0re{d4mn_th3r3_1s_4_pr0_h3r3}
 
-<b>The hidden flag :</b>                enc0re{b0h0t_h4rd}
+<b>The hidden flag :</b>                               enc0re{b0h0t_h4rd}
 </pre>
