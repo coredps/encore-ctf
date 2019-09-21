@@ -1,13 +1,12 @@
-
 #include<stdio.h>
 
 int main()
 {
-    char *str;
-    char *secret="enc0re{f0rm4t_5tr1n6_vuln3r4b1l1ty}";
-    puts("I am hungry for the flag! NOm nOM");
+    char *str;   
+    char *secret="enc0re{-This_is_the_address_to_flag}";
     scanf("%s",str);
+    puts("aight imma just printf it again");
     printf(str);
-    puts("\nthat's so sad ByE");
-    return 0;
+    puts("\nexiting xD");
+    exit(1);
 }
