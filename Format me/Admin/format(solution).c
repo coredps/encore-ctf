@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main(int argc, char **argv[]) {
+int main() {
   setvbuf(stdout, NULL, _IONBF, 0);
   setvbuf(stdin, NULL, _IONBF, 0);
   setvbuf(stderr, NULL, _IONBF, 0);
@@ -13,5 +13,4 @@ int main(int argc, char **argv[]) {
     puts("aight imma just printf it again");
     printf(str);
     exit(1);
-    return 0;
 }
