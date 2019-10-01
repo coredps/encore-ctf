@@ -1,0 +1,1 @@
+socat TCP-LISTEN:1337,reuseaddr,fork EXEC:"./formatstring"
