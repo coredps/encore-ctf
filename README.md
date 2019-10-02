@@ -30,4 +30,12 @@ Enc0re CTF
 <b>Locate Me :</b>                                     enc0re{d4mn_th3r3_1s_4_pr0_h3r3}
 
 <b>The hidden flag :</b>                               enc0re{b0h0t_h4rd}
+
+<b>G'old days :</b>                                    enc0re{W3ll_h3r3_15_an_OG}
+
+<b>oioioi :</b>                                        enc0re{s4d7y_n0_0n3_w0ULd_s0lV3_TH7S}
+
+<b>Windows LM :</b>                                    enc0re{aad3b435b51404eeaad3b435b51404ee}
+
+<b>Never Lose Hope :</b>                               encore{koenokatachireallygivesrsdepression}
 </pre>
