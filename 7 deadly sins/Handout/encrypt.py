@@ -11,7 +11,7 @@ def encrypt(string, shift):
   
   return cipher
  
-text =input("enter string: ")
+text = input("enter string: ")
 s = int(input("enter key: "))
 print("original string: ", text)
 print("after encryption: ", encrypt(text, s))

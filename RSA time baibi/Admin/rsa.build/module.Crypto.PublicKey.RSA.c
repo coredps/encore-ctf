@@ -88,7 +88,7 @@ static PyObject *const_str_digest_09bc009ffd858aaf58df7e98266d9b89;
 extern PyObject *const_tuple_empty;
 static PyObject *const_str_plain_PUBLIC;
 static PyObject *const_str_digest_7ae68210f894a33d25f79574ebc5b876;
-static PyObject *const_str_space;
+extern PyObject *const_str_space;
 static PyObject *const_tuple_str_digest_de039a91e666b845001426da02ce415d_tuple;
 extern PyObject *const_str_plain_M;
 extern PyObject *const_str_digest_74ba315069266703540e145c62869e9e;
@@ -333,7 +333,6 @@ static void createModuleConstants( void )
     const_str_digest_09bc009ffd858aaf58df7e98266d9b89 = UNSTREAM_STRING( &constant_bin[ 157 ], 2, 0 );
     PyTuple_SET_ITEM( const_tuple_str_digest_09bc009ffd858aaf58df7e98266d9b89_tuple, 0, const_str_digest_09bc009ffd858aaf58df7e98266d9b89 ); Py_INCREF( const_str_digest_09bc009ffd858aaf58df7e98266d9b89 );
     const_tuple_str_space_tuple = PyTuple_New( 1 );
-    const_str_space = UNSTREAM_CHAR( 32, 0 );
     PyTuple_SET_ITEM( const_tuple_str_space_tuple, 0, const_str_space ); Py_INCREF( const_str_space );
     const_str_digest_b620955857db5ee2a72e53256d72855b = UNSTREAM_STRING( &constant_bin[ 28857 ], 13, 0 );
     const_str_plain_default_randfunc = UNSTREAM_STRING( &constant_bin[ 28870 ], 16, 1 );
