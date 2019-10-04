@@ -3,8 +3,8 @@
   enc0re{<meaningfulscentence>}
 ### Solution
 
-If you have a big brain and experience, you would end up at library of babel. Decode the polynomial from mathspapa you will get from decoding brainfuck
-Follow what the decoded text says. Enter the hexagon in hex name and the roots as wall,shelf etc and at 5th page you would find the flag
+1. If you have a big brain and experience, you would end up at library of babel. Decode the polynomial from mathspapa you will get from decoding brainfuck
+2. Follow what the decoded text says. Enter the hexagon in hex name and the roots as wall,shelf etc and at 5th page you would find the flag
 
 ### FLAG
 **Flag:** enc0re{anonimbusisbehindyou}
