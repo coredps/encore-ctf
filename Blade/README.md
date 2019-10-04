@@ -5,6 +5,7 @@ Why do you call someone?
 
 1.  to_say_something
 2.  The user can also find the flag using strings command.
+3.  He can then input in nc
 
 ### FLAG
 **Flag:** enc0re{all_these_moments_lost_in_time_starting_to_fade}

@@ -25,8 +25,8 @@ phin = (p-1)*(q-1)
 d = inverse(e,phin)
 flag = 'enc0re{W377cOmE_t0_RSA_b4Ib1}'
 ciphertext = encrypt(flag)
-print "Welcome to RSA pub."
-print "Here have some crack --- " + str(ciphertext)
+print "Welcome to RSA restraunt."
+print "Here is the menu -- " + str(ciphertext)
 c = 0
 while c != 2:
 	c +=1
