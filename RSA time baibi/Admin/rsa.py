@@ -5,6 +5,20 @@ from Crypto.Util.number import *
 def encrypt(message):
 	m = int(message.encode('hex'),16)
 	return pow(m,e,n)
+def ceasar(string, shift):
+ 
+  cipher = ''
+  for char in string: 
+    if char == ' ':
+      cipher = cipher + char
+    elif  char.isupper():
+      cipher = cipher + chr((ord(char) + shift - 65) % 26 + 65)
+    else:
+      cipher = cipher + chr((ord(char) + shift - 97) % 26 + 97)
+  
+  return cipher
+ 
+
 def decrypt(message):
 	try:
 		message = int(message)
@@ -23,7 +37,9 @@ n = p*q
 e = 65537
 phin = (p-1)*(q-1)
 d = inverse(e,phin)
-flag = 'enc0re{W377cOmE_t0_RSA_b4Ib1}'
+text = 'EatphtSBPcdcxbqjhIWXHXHTOQJIXPBEO'
+s = -15
+flag = ceasar(text, s)
 ciphertext = encrypt(flag)
 print "Welcome to RSA restraunt."
 print "Here is the menu -- " + str(ciphertext)
