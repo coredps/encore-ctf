@@ -1,1 +1,0 @@
-/usr/share/nuitka/nuitka/build/static_src/x64_ucontext_src/swapfiber.S
