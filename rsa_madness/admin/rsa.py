@@ -6,18 +6,15 @@ def encrypt(message):
 	m = int(message.encode('hex'),16)
 	return pow(m,e,n)
 def ceasar(string, shift):
- 
   cipher = ''
-  for char in string: 
+  for char in string:
     if char == ' ':
       cipher = cipher + char
     elif  char.isupper():
       cipher = cipher + chr((ord(char) + shift - 65) % 26 + 65)
     else:
       cipher = cipher + chr((ord(char) + shift - 97) % 26 + 97)
-  
   return cipher
- 
 
 def decrypt(message):
 	try:
@@ -37,7 +34,7 @@ n = p*q
 e = 65537
 phin = (p-1)*(q-1)
 d = inverse(e,phin)
-text = ''
+text = 'mcplvtyrcdltdxzdeqfy'
 s = -15
 flag = ceasar(text, s)
 ciphertext = encrypt(flag)
