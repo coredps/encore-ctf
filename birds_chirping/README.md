@@ -3,7 +3,7 @@ who knew chirp could lead to a hidden message
 
 ## Flag
 ```
-enc0re{ep3c7R0_5st1_tr4ns}
+enc0re{sp3c7R0_5st1_tr4ns}
 ```
 
 ## Making of chall
