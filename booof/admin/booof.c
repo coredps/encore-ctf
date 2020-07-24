@@ -27,7 +27,7 @@ int main(int argc, char **argv){
     *end = '\x00';
   }
 
-  strcat(secret, ", we are everywhere.");
+  strcat(secret, " | HAILCORE");
 
   file = fopen("flag.txt", "r");
   if (file == NULL) {
