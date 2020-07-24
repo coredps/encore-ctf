@@ -15,7 +15,7 @@ RUN mkdir /ctf
 RUN useradd -M -d /ctf ctf
 RUN echo ctf:encore | chpasswd 
 
-COPY bin/ /ctf
+RUN cp -r /usr/bin/* /ctf
 
 RUN mkdir -p /ctf/dream/sapnap
 RUN mkdir -p /ctf/dream/george
