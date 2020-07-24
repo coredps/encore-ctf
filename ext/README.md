@@ -1,5 +1,5 @@
 # EXT
-dis sum shady website. Don't try to be a leet heccur ;)
+dis sum shady website. Don't try to be a leet heccur ;) \
 <pre>
 Report to admins if the flag is missing(isn't that obvious) or you are unable to get a connection back.
 </pre>
