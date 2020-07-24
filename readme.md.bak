@@ -1,0 +1,50 @@
+# Encore20
+
+Challenges categories
+=====================
+```
+├── pwn
+│   ├── booof
+│   ├── sea_shell
+│   └── <tbd>
+│
+├── crypto
+│   ├── rsa_madness
+│   ├── turing
+│   └── <tbd>
+│
+├── forensics
+│   ├── bird_chirping
+│   ├── <tbd>
+│   └── <tbd>
+│
+├── web
+│   ├── ext
+│   ├── Circus
+│   └── weather
+│
+├── linux
+│   ├── ext
+│   ├── <tbd>
+│   └── <tbd>
+│
+├── reversing
+│   ├── <tbd>
+│   ├── <tbd>
+│   └── <tbd>
+│
+├── miscellaneous
+│   ├── justin's_reddit_pass
+│   ├── rain
+│   └── <tbd>
+│
+├── osint
+│   ├── justin's_reddit_pass
+│   ├── rain
+│   └── <tbd>
+│
+├── Cryptic
+│   ├── <tbd>
+│   ├── <tbd>
+│   └── <tbd>
+```
