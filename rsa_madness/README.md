@@ -1,5 +1,6 @@
 # RSA Madness
-nc $ip $port. Can you break the RSA? \
+Can you break the RSA? \
+Note: Use python2 to run the rsa.py file \
 Wrap the answer in flag format: enc0re{}
 
 ## Flag
