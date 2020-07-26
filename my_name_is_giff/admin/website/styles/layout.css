@@ -102,29 +102,14 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 #container .last{margin:0;}
 #container .more{text-align:right;}
 
-/* ------Slider-----*/
-
-#container #slider{}
-
-/* ------Main Content-----*/
 
 #container #homepage{display:block; width:100%; line-height:1.8em;}
 
-#container #homepage #services{}
-#container #homepage #services article{}
-#container #homepage #services article figure{}
 #container #homepage #services article figure img{margin:0 0 15px 0; padding:4px; border:1px solid #D6D6D6;}
-#container #homepage #services article figure figcaption{}
 #container #homepage #services article figure h2{font-size:14px; font-weight:bold;}
-#container #homepage #services article figure footer{}
 
-#container #homepage #intro{}
-#container #homepage #intro article{}
-#container #homepage #intro article figure{}
 #container #homepage #intro article figure img{float:right; margin:0 0 10px 0; padding:4px; border:1px solid #D6D6D6;}
 #container #homepage #intro article figure figcaption{float:left; width:460px;}
-#container #homepage #intro article figure h2{}
-#container #homepage #intro article figure footer{}
 
 /*----------------------------------------------Footer-------------------------------------*/
 
