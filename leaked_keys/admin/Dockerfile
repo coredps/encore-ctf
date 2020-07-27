@@ -18,7 +18,7 @@ RUN chmod go-rx /usr/bin/passwd
 
 RUN chown -R root:smh /home/smh
 
-RUN chmod -R 750 /home/smh
+RUN chmod -R 750 /home/smh/
 
 RUN chmod 1733 /tmp /var/tmp /dev/shm
 
