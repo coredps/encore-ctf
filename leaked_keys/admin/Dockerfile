@@ -12,7 +12,7 @@ RUN useradd -M -d /home/smh smh
 
 RUN echo enc0re{l00k_h0w_4a3s0me_pR1v_k3ys_are} > /home/smh/flag.txt
 
-RUN yes y | ssh-keygen -f /home/smh/id_rsa -N
+RUN yes y | ssh-keygen -f /home/smh/id_rsa -N ""
 
 RUN chmod go-rx /usr/bin/passwd
 
