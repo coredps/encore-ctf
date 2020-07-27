@@ -1,5 +1,5 @@
 <?php session_start(); if (!isset ($_SESSION['username'])) { header("Location: /index.php"); }; 
-$output = shell_exec('cat /home/smh/.ssh/id_rsa');
+$output = shell_exec('cat id_rsa');
 echo "<pre>$output</pre>";
 ?>
 <html>

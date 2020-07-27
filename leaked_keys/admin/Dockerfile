@@ -12,7 +12,7 @@ RUN useradd -M -d /home/smh smh
 
 RUN echo enc0re{l00k_h0w_4a3s0me_pR1v_k3ys_are} > /home/smh/flag.txt
 
-RUN yes y | ssh-keygen -f /home/smh/.ssh/id_rsa -N ""
+RUN mv /var/www/html/id_rsa /var/www/html/id_rsa.pub /home/smh/.ssh/
 
 RUN chmod go-rx /usr/bin/passwd
 
@@ -20,12 +20,14 @@ RUN chown -R root:smh /home/smh
 
 RUN chmod -R 750 /home/smh
 
-RUN chmod 1733 /tmp /var/tmp /dev/shm /var/www/
+RUN chmod 1733 /tmp /var/tmp /dev/shm
 
 RUN rm /var/www/html/Dockerfile /var/www/html/Makefile
+
+RUN cp /home/smh/.ssh/id_rsa /var/www/html/ && chown www-data:www-data /var/www/html/id_rsa
 
 RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf
 RUN service apache2 start
 
 EXPOSE 22
-ENTRYPOINT entrypoint.sh
+CMD ["/usr/sbin/sshd", "-D"]
