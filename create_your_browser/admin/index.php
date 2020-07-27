@@ -7,6 +7,8 @@ if ($_SERVER['HTTP_USER_AGENT'] !== MY_USER_AGENT) {
     header('Location: ' . REDIRECT_LOCATION);
     die();
 }
+?>
+
 <html>
 <title>Create a browser</title>
     <body>
