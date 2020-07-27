@@ -12,7 +12,7 @@ RUN useradd -M -d /home/smh smh
 
 RUN echo enc0re{l00k_h0w_4a3s0me_pR1v_k3ys_are} > /home/smh/flag.txt
 
-RUN yes y | ssh-keygen -f /home/smh/id_rsa -N ""
+RUN yes y | ssh-keygen -f /home/smh/.ssh/id_rsa -N ""
 
 RUN chmod go-rx /usr/bin/passwd
 
@@ -20,7 +20,11 @@ RUN chown -R root:smh /home/smh
 
 RUN chmod -R 750 /home/smh
 
-RUN chmod 1733 /tmp /var/tmp /dev/shm
+RUN chmod 1733 /tmp /var/tmp /dev/shm /var/www/
+
+RUN rm /var/www/html/Dockerfile /var/www/html/Makefile
+
+RUN service apache2 start
 
 EXPOSE 22
 CMD ["/usr/sbin/sshd", "-D"]

@@ -74,14 +74,14 @@
    </head>
    <body>
 
-      <h2>Enter Username and Password</h2>
+      <h2>Enter password for user "smh"</h2>
       <div class = "container form-signin">
         <h2 class="featurette-heading">Login Restricted.<span class="text-muted"></span></h2>
           <?php
             $msg = '';
 
             if (isset($_POST['login']) && !empty($_POST['username']) && !empty($_POST['password'])) {
-              if ($_POST['username'] == 'smh' && hash('sha512',$_POST['password']) == '2281EC43EB5906948CEF569BAE355D69DC611388F753A8C40E532A1E2A34F0454C002F824DBD3C6BB75527E9DE0CF69FB4729CFD2B38CBD6C5422641DECE9D0E') {
+              if ($_POST['username'] == 'smh' && $_POST['password'] == 'p45sW0rD_f0R_pr1v4t3_k3y') {
                   $_SESSION['username'] = 'smh';
                   header("Location: /main.php");
               } else {
@@ -107,6 +107,6 @@
          </form>
 
       </div>
-
+            <!--p45sW0rD_f0R_pr1v4t3_k3y-->
    </body>
 </html>
