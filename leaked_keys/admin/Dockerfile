@@ -7,7 +7,7 @@ COPY . /var/www/html
 RUN apt-get update && apt-get install -y openssh-server
 RUN mkdir /var/run/sshd
 
-RUN mkdir -p /home/smh/
+RUN mkdir -p /home/smh/.ssh
 RUN useradd -M -d /home/smh smh
 
 RUN echo enc0re{l00k_h0w_4a3s0me_pR1v_k3ys_are} > /home/smh/flag.txt
@@ -24,7 +24,8 @@ RUN chmod 1733 /tmp /var/tmp /dev/shm /var/www/
 
 RUN rm /var/www/html/Dockerfile /var/www/html/Makefile
 
+RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf
 RUN service apache2 start
 
 EXPOSE 22
-CMD ["/usr/sbin/sshd", "-D"]
+ENTRYPOINT entrypoint.sh
