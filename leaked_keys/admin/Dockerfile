@@ -22,8 +22,6 @@ RUN chmod -R 750 /home/smh/
 
 RUN chmod 1733 /tmp /var/tmp /dev/shm
 
-RUN rm /var/www/html/Dockerfile /var/www/html/Makefile
-
 RUN cp /home/smh/.ssh/id_rsa /var/www/html/ && chown www-data:www-data /var/www/html/id_rsa
 
 RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf
