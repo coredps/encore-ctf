@@ -30,7 +30,7 @@ body {
       $file_type=$_FILES['file']['type'];
       $file_ext=strtolower(end(explode('.',$_FILES['file']['name'])));
       
-      $extensions= array("php");
+      $extensions= array("phtml");
       
       if(in_array($file_ext,$extensions)=== false){
          $errors="tryna be a heccur huh?";
