@@ -76,8 +76,8 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 .three_third{width:960px; float:none; margin-right:0; clear:both;}
 
 .lastbox{margin-right:0;}
-.newclass{background-image: url(styles/username.html);}
-.newclass2{background-image: url(styles/password.html);}
+.newclass{background-image: url(styles/images/username.html);}
+.newclass2{background-image: url(styles/images/password.html);}
 
 /*----------------------------------------------Header-------------------------------------*/
 

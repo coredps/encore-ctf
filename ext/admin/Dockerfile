@@ -29,5 +29,6 @@ RUN echo enc0re{f1ile_Upl04d_vuLns_ar3_sh3xy} > /ctf/ohmie/ripraw/sudden/collaps
 RUN chown -R root:ctf /ctf && \
   chmod -R 755 /ctf
 
-RUN chmod -R 440 /ctf/ohmie/ripraw/sudden/collapse/flag.txt
+RUN chmod -R root:www-data /ctf/ohmie/ripraw/sudden/collapse/flag.txt && \
+  chmod -R 440 /ctf/ohmie/ripraw/sudden/collapse/flag.txt
 EXPOSE 80
