@@ -12,6 +12,7 @@ Challenges categories
 │   └── turing
 │
 ├── forensics
+│   ├── zippocrack
 │   └── bird_chirping
 │
 ├── web
