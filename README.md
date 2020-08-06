@@ -27,6 +27,8 @@ Challenges categories
 │
 ├── miscellaneous
 │   ├── justin's_reddit_pass
+│   ├── sanity_check
+│   ├── insanity_check
 │   └── rain
 │
 ├── osint
