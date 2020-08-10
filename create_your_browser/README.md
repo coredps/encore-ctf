@@ -4,7 +4,7 @@ Samsung smart television fridge
 
 ## Flag
 ```
-enc0re{mc0w_mL_dD05inG}
+enc0re{s4mssUngg_5MM0r7_Fr1dg3}
 ```
 
 ## Solution
