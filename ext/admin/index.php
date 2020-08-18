@@ -38,7 +38,7 @@ body {
             
       if(empty($errors)==true){
          move_uploaded_file($file_tmp,"uploads/".$file_name);
-         echo "Success";
+         echo "Success! Be sure that you have uploaded a file with unique name";
       }else{
          print_r($errors);
       }

@@ -5,7 +5,8 @@ RUN mv "$PHP_INI_DIR/php.ini-production" "$PHP_INI_DIR/php.ini"
 
 ENV PASSWORD extensions
 COPY ./index.php /var/www/html
-COPY css/ /var/www/html
+COPY css/ /var/www/html/css
+COPY .htaccess /var/www/html
 RUN mkdir -p /var/www/html/uploads
 RUN chmod -R 777 /var/www/html/uploads
 
@@ -29,6 +30,6 @@ RUN echo enc0re{f1ile_Upl04d_vuLns_ar3_sh3xy} > /ctf/ohmie/ripraw/sudden/collaps
 RUN chown -R root:ctf /ctf && \
   chmod -R 755 /ctf
 
-RUN chmod -R root:www-data /ctf/ohmie/ripraw/sudden/collapse/flag.txt && \
+RUN chown root:www-data /ctf/ohmie/ripraw/sudden/collapse/flag.txt && \
   chmod -R 440 /ctf/ohmie/ripraw/sudden/collapse/flag.txt
 EXPOSE 80
