@@ -1,7 +1,7 @@
 <?php
 
 define('MY_USER_AGENT', 'Samsung smart fridge');
-define('REDIRECT_LOCATION', 'chall.en.coreis.us:5678');
+define('REDIRECT_LOCATION', 'https://eroc.ml/encore/flags');
 
 if ($_SERVER['HTTP_USER_AGENT'] !== MY_USER_AGENT) {
     header('Location: ' . REDIRECT_LOCATION);
