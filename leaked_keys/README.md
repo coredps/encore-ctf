@@ -1,3 +1,0 @@
-p45sW0rD_f0R_pr1v4t3_k3y
-
-enc0re{l00k_h0w_4a3s0me_pR1v_k3ys_are}
