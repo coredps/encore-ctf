@@ -1,6 +1,6 @@
 # Create your browser
 This website is only accessible using <br>
-Samsung smart television fridge
+Samsung smart fridge
 
 ## Flag
 ```

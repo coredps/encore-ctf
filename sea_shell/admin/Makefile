@@ -1,2 +1,5 @@
 build:
-	gcc sea_shell.c -o sea_shell -no-pie -fno-stack-protector
+	docker build -t sea_shell .
+
+run:
+	docker run -it -d -p 0123:8000 sea_shell

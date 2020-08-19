@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER tnek
+MAINTAINER Anonimbus
 
 RUN apt-get update && apt-get install -y socat
 
