@@ -3,7 +3,7 @@ session_start();
 $errorMsg = "";
 $validUser = $_SESSION["login"] === true;
 if(isset($_POST["sub"])) {
-  $validUser = $_POST["username"] == "t4ru5h" && $_POST["password"] == "3nc0R3h057";
+  $validUser = $_POST["username"] == "mY3_na1m_i5_yeif..." && $_POST["password"] == "p4w5_w0rd";
   if(!$validUser) $errorMsg = "Invalid username or password.";
   else $_SESSION["login"] = true;
 }
