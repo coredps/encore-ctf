@@ -35,7 +35,7 @@ e = 65537
 phin = (p-1)*(q-1)
 d = inverse(e,phin)
 text = 'mcplvtyrcdltdxzdeqfy'
-s = -15
+s = 15
 flag = ceasar(text, s)
 ciphertext = encrypt(flag)
 print "Welcome to RSA restraunt."

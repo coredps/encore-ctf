@@ -5,6 +5,7 @@ Challenges categories
 ```
 ├── pwn
 │   ├── booof
+│   ├── boye
 │   └── sea_shell
 │
 ├── crypto
@@ -18,6 +19,7 @@ Challenges categories
 ├── web
 │   ├── ext
 │   ├── Circus
+│   ├── my_name_is_giff
 │   └── weather
 │
 ├── linux
