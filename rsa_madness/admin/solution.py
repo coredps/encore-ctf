@@ -24,6 +24,8 @@ r.sendline("2")
 
 mul = pow(2, e, n)
 payload = c*mul % n
+print(payload)
 r.sendline(str(payload))
 flag = int(r.recvuntil('\n').strip())
+print(r.recv())
 print "Flag:", long_to_bytes(flag/2)
