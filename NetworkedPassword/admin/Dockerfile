@@ -1,8 +1,10 @@
-FROM tiangolo/uvicorn-gunicorn-starlette:python3.7-alpine3.8
+FROM python:3.8-alpine
 
+RUN mkdir /app 
 COPY index.html main.py /app/
+RUN chmod +x /app/*
 
-RUN pip install jinja2 python-multipart
+RUN pip install python-multipart uvicorn starlette jinja2 python-multipart
+WORKDIR /app
 
-
-CMD ["./run.sh"]
+CMD ["python3","/app/main.py"]
