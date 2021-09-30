@@ -1,4 +1,5 @@
 # Encore20
+Writeups by exunclan: https://github.com/exunclan/encore-2020
 
 Challenges categories
 =====================
