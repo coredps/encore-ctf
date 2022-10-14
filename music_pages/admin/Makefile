@@ -1,4 +1,5 @@
 build:
+	bash script.sh
 	docker build -t lfigit .
 
 run:
