@@ -4,15 +4,17 @@ Challenges categories
 =====================
 ```
 ├── pwn
-│   └── babybof_
+│   └── 
 │
 ├── forensics
 │   ├── sss
 │   └── qristhisyou
+│   ├── what da hail (core)
+│   └── 
 │
 ├── crypto
-│   └── crypcryp
+│   └── 
 │
 └── web
-    └── wjee
+    └── 
 ```
