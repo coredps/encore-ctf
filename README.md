@@ -7,7 +7,7 @@ Challenges categories
 │   └── babybof_
 │
 ├── forensics
-│   ├── seesawsee
+│   ├── sss
 │   └── qristhisyou
 │
 ├── crypto
