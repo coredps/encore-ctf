@@ -7,6 +7,8 @@ Challenges categories
 │   └── 
 │
 ├── forensics
+│   ├── sss
+│   └── qristhisyou
 │   ├── what da hail (core)
 │   └── 
 │
